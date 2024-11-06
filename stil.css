@@ -5,3 +5,26 @@ html, body{
     background-color: rgb(92, 234, 201);
 }
  
+#mund{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 35%;
+}
+
+#augen{
+    display: flex;
+    width: 40%;
+    margin: 30%;
+    justify-content: center;
+    
+}
+
+#gesicht{
+    margin-left: 35%;
+    background-color: yellow;
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+}
